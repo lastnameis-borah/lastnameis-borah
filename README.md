@@ -1,4 +1,5 @@
-### Bonjour 👋, this is Anurag!
+### Bonjour 👋, this is Anurag! </br>
+Welcome to my GitHub account.
 
 <a href="https://www.linkedin.com/in/anurag-b-27034814b/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
